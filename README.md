@@ -11,22 +11,22 @@ will perform a calculation based on the operation picked by the user and then ou
 
 
 **WHAT OPERATIONS DOES THE PROGRAM ACCEPT?**
-* addition -> +
+* Addition -> +
 
-* subtraction -> -
+* Subtraction -> -
   
-* multiplication -> *
+* Multiplication -> *
 
-* division -> /
+* Division -> /
 
 Additional operations: 
 
-* M -> represents max.
+* M -> represents Max.
 
-* m -> represents min.
+* m -> represents Min.
 
-* ^ -> represents power 
+* ^ -> represents Power 
 
-* % -> mod operator.
+* % -> Mod.
 
 If any other operator is entered expect from the ones listed above, the program will return an error message.
