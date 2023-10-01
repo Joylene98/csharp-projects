@@ -1,0 +1,7 @@
+C:\Users\joyad\source\repos\Practice1\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\joyad\source\repos\Practice1\Practice1\bin\Debug\Practice1.exe
+C:\Users\joyad\source\repos\Practice1\Practice1\bin\Debug\Practice1.pdb
+C:\Users\joyad\source\repos\Practice1\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+C:\Users\joyad\source\repos\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\joyad\source\repos\Practice1\Practice1\obj\Debug\Practice1.exe
+C:\Users\joyad\source\repos\Practice1\Practice1\obj\Debug\Practice1.pdb
