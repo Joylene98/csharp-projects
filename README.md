@@ -1,5 +1,3 @@
-# csharp-projects
-
 # THE CALCULATOR PROJECT
 
 Calculator project is a program developed in C# which performs simple arithmetic such as adding, subtracting, dividing and multiplying based on user input. 
