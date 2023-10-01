@@ -11,13 +11,13 @@ will perform a calculation based on the operation picked by the user and then ou
 
 
 **WHAT OPERATIONS DOES THE PROGRAM ACCEPT?**
-* + -> addition
+* addition -> +
+
+* subtraction -> -
   
-* - -> subtraction
-  
-* * -> multiplication
-  
-* / -> division
+* multiplication -> *
+
+* division -> /
 
 Additional operations: 
 
